@@ -1,0 +1,5 @@
+baseURL = 'https://suhailhijry.github.io/'
+languageCode = 'en-us'
+title = "Achilles' Blog"
+theme = "PaperMod"
+
