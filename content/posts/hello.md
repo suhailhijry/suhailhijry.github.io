@@ -1,7 +1,7 @@
 ---
 title: "Hello, void!"
 date: 2022-07-17T02:16:10+03:00
-draft: true
+draft: false 
 ---
 
 ## Who am I?
