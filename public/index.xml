@@ -6,7 +6,17 @@
     <description>Recent content on Achilles&#39; Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Jul 2022 02:16:10 +0300</lastBuildDate><atom:link href="https://suhailhijry.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Feb 2023 17:17:10 +0300</lastBuildDate><atom:link href="https://suhailhijry.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thoughts on Parsing and Compiler Design</title>
+      <link>https://suhailhijry.github.io/posts/thoughts-on-parsing/</link>
+      <pubDate>Mon, 27 Feb 2023 17:17:10 +0300</pubDate>
+      
+      <guid>https://suhailhijry.github.io/posts/thoughts-on-parsing/</guid>
+      <description>Background I&amp;rsquo;m omitting many details in this post, since parsing is a very broad topic, and diving into each point will be out of the scope of this post
+A parser is usually that part of a compiler/program that translates some data into other form of data. It can be a CSV, JSON, YAML, or even a whole programming language parser. A parser follows a grammar, and just like any natural language, programming languages, data exchange formats, and even file formats have grammar rules.</description>
+    </item>
+    
     <item>
       <title>Hello, void!</title>
       <link>https://suhailhijry.github.io/posts/hello/</link>
